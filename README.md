@@ -15,7 +15,8 @@ Introduce myself
 
 
 ![PYTHON](https://img.shields.io/badge/PYTHON-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-0696D7?style=plastic&logo=Python&logoColor=white)
- <div align=center>
+ 
+<div align=center>
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:khw11044@gmail.com)](mailto:khw11044@gmail.com)
 [![Tech Blog Badge](http://img.shields.io/badge/-Naver-green?style=flat-square&logo=github&link=https://blog.naver.com/PostList.nhn?blogId=khw11044/)](https://blog.naver.com/PostList.nhn?blogId=khw11044/)
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://https://www.youtube.com/channel/UCXtZl_ebFmAMDECcMSICp-g?view_as=subscriber)](https://www.youtube.com/channel/UCXtZl_ebFmAMDECcMSICp-g?view_as=subscriber)
