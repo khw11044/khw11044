@@ -25,7 +25,10 @@ Introduce myself
 
   <div align=center>
 	
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:khw11044@gmail.com)](mailto:khw11044@gmail.com)
+[![Tech Blog Badge](http://img.shields.io/badge/-Naver-green?style=flat-square&logo=github&link=https://blog.naver.com/PostList.nhn?blogId=khw11044/)](https://blog.naver.com/PostList.nhn?blogId=khw11044/)
+[![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://https://www.youtube.com/channel/UCXtZl_ebFmAMDECcMSICp-g?view_as=subscriber)](https://www.youtube.com/channel/UCXtZl_ebFmAMDECcMSICp-g?view_as=subscriber)
+[![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/hyun.kim.12914)](https://www.facebook.com/hyun.kim.12914)
 	
   </div>
 
