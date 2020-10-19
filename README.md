@@ -4,9 +4,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkhw11044&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) ![GitHub followers](https://img.shields.io/github/followers/khw11044?color=blue&label=Follower&style=plastic)
 ### Hi there 👋
-Hello ~ Thank you to come to my github, My name is HyunWoo,
-Introduce myself
-
+Thank you to visit my github, My name is HyunWoo. let me introduce myself
 My major is **IT CONVERGENCE ENGINEERING**📚, i have been studying computer science💻 since 2018. I have project experience using **Python(My Most confident computer language)**, Java & Android, C/C++ ( FPV Self-Driving RC car, Anti-Drone AI Robot, Mashroom AI book App ) 
 i am very interested in Deep Learning. especially computer vision.
 
