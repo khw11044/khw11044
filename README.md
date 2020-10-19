@@ -10,23 +10,12 @@ Introduce myself
 My major is **IT CONVERGENCE ENGINEERING**📚, i have been studying computer science💻 since 2018. I have project experience using **Python(My Most confident computer language)**, Java & Android, C/C++ ( FPV Self-Driving RC car, Anti-Drone AI Robot, Mashroom AI book App ) 
 i am very interested in Deep Learning. especially computer vision.
 
-## CV
-
-### Machine Learning & Deep Learning Engineer
- - i want to be ML/DL Engineer
-
-### Interest
-- AI, Deep Learning, Machine Learning (Vot, Object detection. GAN)
-- AI graduate school
-- Cloud computing platform (Microsoft Azure)
-- django, React Native, TypeScript, SQL
-
 ### Career
 | **Type** | **Date** | **Contents** | **Organiztion** |
 | ------ | ------ | ------ | ------ |
 | **🎓Education** | 2015.03 ~ 2021.02 |DIVISION OF IT CONVERGENCE ENGINEERING | **Hansung University** |
-| **Research acttivies** | 2020.06 ~ 2020.11 | Undergraduate Students Research Intern | **Hansung Univ. Computer Vision AI Lab** |
-| **External acttivies** | 😭😂 | 😭😂 | 😭😂 |
+| **Research activities** | 2020.06 ~ 2020.11 | Undergraduate Students Research Intern | **Hansung Univ. Computer Vision AI Lab** |
+| **External activities** | 😭😂 | 😭😂 | 😭😂 |
 | **award** | 2019.09 | The 15th HANSUNG Engineering Competitive Exhibition **[PM]** , Bronze| **Hansung University** |
 | **award** | 2020.09 | The 16th HANSUNG Engineering Competitive Exhibition **[PM]** , Silver| **Hansung University** |
 | 🏢Employment | 😭 | 😂 | 😭😂|
