@@ -14,8 +14,8 @@ i am very interested in Deep Learning. especially computer vision.
 | ------ | ------ | ------ | ------ |
 | **🎓Education** | 2015.03 ~ 2021.02 |DIVISION OF IT CONVERGENCE ENGINEERING | **Hansung University** |
 | **Research activities** | 2020.06 ~ 2020.11 | Undergraduate Students Research Intern | **Hansung Univ. Computer Vision AI Lab** |
-| **award** | 2019.09 | The 15th HANSUNG E.C.E **[PM]** , Bronze| **Hansung University** |
-| **award** | 2020.09 | The 16th HANSUNG E.C.E **[PM]** , Silver| **Hansung University** |
+| **Award** | 2019.09 | The 15th HANSUNG E.C.E **[PM]** , Bronze| **Hansung University** |
+| **Award** | 2020.09 | The 16th HANSUNG E.C.E **[PM]** , Silver| **Hansung University** |
 | 🏢Employment | 😭 | 😂 | 😭😂|
 
 
