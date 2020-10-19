@@ -22,13 +22,13 @@ i am very interested in Deep Learning. especially computer vision.
 - django, React Native, TypeScript, SQL
 
 ### Career
-| Type | Date | Contents | Organiztion |
+| **Type** | **Date** | **Contents** | **Organiztion** |
 | ------ | ------ | ------ | ------ |
-| 🎓Education | 2015.03 ~ 2021.02 |DIVISION OF IT CONVERGENCE ENGINEERING | Hansung University |
-| Research acttivies | 2020.06 ~ 2020.11 | Undergraduate Students Research Intern | Hansung Univ. Computer Vision AI Lab |
-| External acttivies | 😭😂 | 😭😂 | 😭😂 |
-| award | 2019.09 | The 15th HANSUNG Engineering Competitive Exhibition **[PM]** , Bronze| Hansung University |
-| award | 2020.09 | The 16th HANSUNG Engineering Competitive Exhibition **[PM]** , Silver| Hansung University |
+| **🎓Education** | 2015.03 ~ 2021.02 |DIVISION OF IT CONVERGENCE ENGINEERING | **Hansung University** |
+| **Research acttivies** | 2020.06 ~ 2020.11 | Undergraduate Students Research Intern | **Hansung Univ. Computer Vision AI Lab** |
+| **External acttivies** | 😭😂 | 😭😂 | 😭😂 |
+| **award** | 2019.09 | The 15th HANSUNG Engineering Competitive Exhibition **[PM]** , Bronze| **Hansung University** |
+| **award** | 2020.09 | The 16th HANSUNG Engineering Competitive Exhibition **[PM]** , Silver| **Hansung University** |
 | 🏢Employment | 😭 | 😂 | 😭😂|
 
 
@@ -38,6 +38,8 @@ i am very interested in Deep Learning. especially computer vision.
 
 ![PYTHON](https://img.shields.io/badge/PYTHON-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-0696D7?style=plastic&logo=Python&logoColor=white)
 ![JAVA & ANDROID](https://img.shields.io/badge/JAVA&ANDROID-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86%E2%98%86-3ddc84?style=plastic&logo=Android&logoColor=white)
+
+![HyunWoo's github stats](https://github-readme-stats.vercel.app/api?username=khw11044&show_icons=true)
 
 
   <div align=center>
