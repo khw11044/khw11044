@@ -4,9 +4,12 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkhw11044&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) ![GitHub followers](https://img.shields.io/github/followers/khw11044?color=blue&label=Follower&style=plastic)
 ### Hi there 👋
-Thank you to visit my github, My name is HyunWoo. let me introduce myself.
+Thank you to visit my github, My name is HyunWoo.
 
-My major is **IT CONVERGENCE ENGINEERING**📚, i have been studying computer science💻 since 2018. I have project experience using **Python(My Most confident computer language)**, Java & Android, C/C++ ( FPV Self-Driving RC car, Anti-Drone AI Robot, Mashroom AI book App ) 
+My major is **IT CONVERGENCE ENGINEERING**📚, i have been studying computer science💻 since 2018.
+
+I have project experience using **Python(My Most confident computer language)**, Java & Android, C/C++
+
 i am very interested in Deep Learning. especially computer vision.
 
 ### Career
@@ -16,7 +19,7 @@ i am very interested in Deep Learning. especially computer vision.
 | **Research activities** | 2020.06 ~ 2020.11 | Undergraduate Students Research Intern | **Hansung Univ. Computer Vision AI Lab** |
 | **Award** | 2019.09 | The 15th HANSUNG E.C.E **[PM]** , Bronze| **Hansung University** |
 | **Award** | 2020.09 | The 16th HANSUNG E.C.E **[PM]** , Silver| **Hansung University** |
-| 🏢Employment | 😭 | 😂 | 😭😂|
+| **Award** | 2020.11 | OpenSW Developer competition **[PM]** , Bronze| **과학기술정보통신부** |
 
 
 
