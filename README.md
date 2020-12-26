@@ -17,7 +17,7 @@
 	
 Thank you to visit my github, My name is HyunWoo.
 
-My major is **IT CONVERGENCE ENGINEERING**📚, i have been studying computer science💻 since 2018.
+My major is **AI & IT CONVERGENCE ENGINEERING**📚, i have been studying computer science💻 since 2018.
 
 I have project experience using **Python(My Most confident computer language)**, Java & Android, C/C++
 
