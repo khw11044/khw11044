@@ -5,7 +5,7 @@
 <p align="center">🇰🇷</p>
 
 <br><br>
-<h3 align="center"> ------------------------ 🍒 Me 🍒 ------------------------ </h3>
+<h3 align="center"> ------------------------ :lollipop: 🍒 Me 🍒  :lollipop: ------------------------ </h3>
 
   <div align=center> 
 	
