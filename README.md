@@ -5,14 +5,13 @@
 <p align="center">🇰🇷</p>
 
 <br><br>
-<h3 align="center"> ------------------------ :lollipop: 🍒 Me 🍒  :lollipop: ------------------------ </h3>
-
   <div align=center> 
 	
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkhw11044&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) ![GitHub followers](https://img.shields.io/github/followers/khw11044?color=blue&label=Follower&style=plastic)
 
   </div>
-  
+<h3 align="center"> ------------------------ :lollipop: 🍒 Me 🍒  :lollipop: ------------------------ </h3>
+
   
   <div align=center>
 
