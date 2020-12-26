@@ -4,24 +4,14 @@
 
 <p align="center">🇰🇷</p>
 
-<br><br>
+<br>
+
   <div align=center> 
 	
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkhw11044&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) ![GitHub followers](https://img.shields.io/github/followers/khw11044?color=blue&label=Follower&style=plastic)
 
   </div>
 <h3 align="center"> ------------------------ :lollipop: 🍒 Me 🍒  :lollipop: ------------------------ </h3>
-
-  
-  <div align=center>
-
-### 📬Contacts		
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:khw11044@gmail.com)](mailto:khw11044@gmail.com)
-[![Tech Blog Badge](http://img.shields.io/badge/-Blog-green?style=flat-square&logo=github&link=https://blog.naver.com/PostList.nhn?blogId=khw11044/)](https://blog.naver.com/PostList.nhn?blogId=khw11044/)
-[![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://https://www.youtube.com/channel/UCXtZl_ebFmAMDECcMSICp-g?view_as=subscriber)](https://www.youtube.com/channel/UCXtZl_ebFmAMDECcMSICp-g?view_as=subscriber)
-[![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/hyun.kim.12914)](https://www.facebook.com/hyun.kim.12914)
-	
-  </div>
 
   <div align=center> 
 	
@@ -35,6 +25,15 @@ i am very interested in Deep Learning. especially computer vision.
 
   </div>
 
+  <div align=center>
+
+### 📬Contacts		
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:khw11044@gmail.com)](mailto:khw11044@gmail.com)
+[![Tech Blog Badge](http://img.shields.io/badge/-Blog-green?style=flat-square&logo=github&link=https://blog.naver.com/PostList.nhn?blogId=khw11044/)](https://blog.naver.com/PostList.nhn?blogId=khw11044/)
+[![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://https://www.youtube.com/channel/UCXtZl_ebFmAMDECcMSICp-g?view_as=subscriber)](https://www.youtube.com/channel/UCXtZl_ebFmAMDECcMSICp-g?view_as=subscriber)
+[![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/hyun.kim.12914)](https://www.facebook.com/hyun.kim.12914)
+	
+  </div>
 
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
