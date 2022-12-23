@@ -29,7 +29,8 @@ i am very interested in Deep Learning. especially computer vision.
 
 ### 📬Contacts		
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:khw11044@gmail.com)](mailto:khw11044@gmail.com)
-[![Tech Blog Badge](http://img.shields.io/badge/-Blog-green?style=flat-square&logo=github&link=https:///khw11044.github.io/)](https://khw11044.github.io/)
+[![Tech Blog Badge](http://img.shields.io/badge/-Blog-green?style=flat-square&logo=github&link=https://khw11044.github.io/)](https://khw11044.github.io/)
+[![Tech Blog Badge](http://img.shields.io/badge/-Blog-black?style=flat-square&logo=github&link=https://hyunew.github.io/)](https://hyunew.github.io/)
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://https://www.youtube.com/channel/UCXtZl_ebFmAMDECcMSICp-g?view_as=subscriber)](https://www.youtube.com/channel/UCXtZl_ebFmAMDECcMSICp-g?view_as=subscriber)
 [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/hyun.kim.12914)](https://www.facebook.com/hyun.kim.12914)
 	
