@@ -2,6 +2,8 @@
 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=HyunWooKim&fontSize=70&animation=twinkling)
 
+<p align="center"> Please check out my page using the QR code below.</p>
+
 <p align="center"><img src="https://github.com/user-attachments/assets/9ebb6151-775b-4467-9d9c-86b177c9cebf" height="400px" width="400px"></p>
 
 <br>
